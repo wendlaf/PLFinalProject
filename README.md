@@ -17,13 +17,13 @@ RP: /[")"]/
 %ignore WS
 
 The following is what symbols to use, when entering an input in my program:
-"0,1,2,3,4,5,6,7,8,9"
-"+" = plus
-"-" = minus
-"*" = multiplication
+"0,1,2,3,4,5,6,7,8,9" 
+"+" = plus 
+"-" = minus 
+"*" = multiplication 
 "%" = division 
-"(" = left parentheses
-")" = right parentheses
+"(" = left parentheses 
+")" = right parentheses 
 ***The "/" symbol did not want to work in my program so I just changed it for my purposes***
 
 About testing:
