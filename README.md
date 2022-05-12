@@ -1,5 +1,5 @@
 About my project:
-
+For my project I create a interpreter for normal mathamatical expressions with parentheses. This project was actually something I had started on a very long time ago, when I first started with python. I ended up giving up very early on it because I just didn't know enough to finish it. Fast foward to present day, I was able to finish it due to what I learned in Programming Languages.
 
 About the grammar:
 The following is the inital grammar that I made using the Lark online IDE.
