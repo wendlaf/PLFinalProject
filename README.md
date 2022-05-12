@@ -17,14 +17,14 @@ RP: /[")"]/
 %ignore WS
 
 The following is what symbols to use, when entering an input in my program:
- 0,1,2,3,4,5,6,7,8,9 
- + = plus
- - = minus
- * = multiplication
- % = division 
- ( = left parentheses
- ) = right parentheses
- ***The "/" symbol did not want to work in my program so I just changed it for my purposes***
+"0,1,2,3,4,5,6,7,8,9"
+"+" = plus
+"-" = minus
+"*" = multiplication
+"%" = division 
+"(" = left parentheses
+")" = right parentheses
+***The "/" symbol did not want to work in my program so I just changed it for my purposes***
 
 About testing:
 For testing my inital plan was to have an external file that was able to be preloaded with possible test case and then return if it was true or false.
