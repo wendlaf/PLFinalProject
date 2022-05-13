@@ -1,5 +1,11 @@
 About my project:
-For my project I create a interpreter for normal mathamatical expressions with parentheses. This project was actually something I had started on a very long time ago, when I first started with python. I ended up giving up very early on it because I just didn't know enough to finish it. Fast foward to present day, I was able to finish it due to what I learned in Programming Languages. All inputs in the form of (x+y)... are allowed. This can be  concatinated to any length, but parentheses can get hard at long lengths. Negative numbers are also not allowed. This is because I could not find a to make the negative symbol work right behind another mathamatical symbol like * or +.
+For my project I create a interpreter for normal mathamatical expressions with parentheses. 
+This project was actually something I had started on a very long time ago, when I first started with python. 
+I ended up giving up very early on it because I just didn't know enough to finish it. 
+Fast foward to present day, I was able to finish it due to what I learned in Programming Languages. 
+All inputs in the form of (x+y)... are allowed. This can be concatinated to any length, but parentheses can get hard at long lengths. 
+Negative numbers are also not allowed. 
+This is because I could not find a to make the negative symbol work right behind another mathamatical symbol like * or +.
 
 About the grammar:
 The following is the inital grammar that I made using the Lark online IDE.
